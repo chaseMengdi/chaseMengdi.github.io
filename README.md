@@ -1,2 +1,0 @@
-# chaseMengdi.github.io
-myBlogWebsite
